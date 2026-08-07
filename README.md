@@ -1,5 +1,4 @@
-# vak_spisok
-Список журналов из перечня ВАК. 
+# Список журналов из перечня ВАК
 
 https://maximtimof.github.io/vak_spisok/
 
